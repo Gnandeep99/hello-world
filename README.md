@@ -1,3 +1,3 @@
 # hello-world
 hello everyone, i am gnandeep narra .
-i started using github
+i started using github and git
